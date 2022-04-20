@@ -1,0 +1,23 @@
+
+.wrapper{
+	width: 100%;
+	display:flex;
+	justify-content: left;
+	margin-top: 10rem;
+}
+
+.prettyTable{
+	border: 2px solid lightcoral;
+	background-color: lightgray;
+	color: lightcoral;
+}
+
+.tcell{
+	border-bottom: 1px solid lightcoral;
+	padding: .7rem;
+}
+
+.hcell{
+	width: 10rem;
+	border-bottom: 2px solid lightcoral;
+}
